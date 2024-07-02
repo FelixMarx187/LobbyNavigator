@@ -1,0 +1,4 @@
+name: LobbyNavigator
+version: '${project.version}'
+main: de.lobby.lobbynavigator.LobbyNavigator
+api-version: '1.21'
